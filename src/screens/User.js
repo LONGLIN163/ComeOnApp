@@ -1,14 +1,14 @@
 import React from 'react';
 import {View, StyleSheet, Text} from 'react-native';
 
-const Inputauthcode = () => {
+const User = () => {
     return (
         <View>
-            <Text>Inputauthcode</Text>
+            <Text>User here...</Text>
         </View>
     );
 }
 
 const styles = StyleSheet.create({})
 
-export default Inputauthcode;
+export default User;
